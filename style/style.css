@@ -102,7 +102,10 @@ td, th{
     border: thin dotted #fff;
     padding: 0 100px;
 }
-caption:hover, td:hover, th:hover {
+table#teachers td, table#teachers th {
+    padding: 0 55px;
+}
+td:hover, th:hover {
     background-color: #555;
     transition: background-color 1.5s;
 }

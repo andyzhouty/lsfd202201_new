@@ -7,8 +7,8 @@ http://z-t-y.github.io/lsfd202201_new/
 ### Home
 Show class news and guide words
 
-### Classmate
-Show classmates list
+### Members
+Show members list
 
 ### Where are we (thanks to Baidu Map Javascript API)
 Show the <strong>exact</strong> location of our class
