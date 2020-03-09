@@ -1,4 +1,5 @@
 window.onload = showMap
+
 function showMap() {
     var map = new BMap.Map("map");
     map.disableBizAuthLogo();

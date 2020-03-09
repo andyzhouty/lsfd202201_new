@@ -1,6 +1,7 @@
 # 兰生复旦中学202201班 班级网站
-## 网站网址(即将改变域名， 目前仅是Gitee Pages提供的域名)
-http://ras-lsfd.gitee.io/lsfdclass202201/
+## 网站网址(即将改变域名， 目前仅是Gitee Pages和Github Pages提供的服务)
+http://andyzhouty.gitee.io/lsfd202201_new/
+http://z-t-y.github.io/lsfd202201_new/
 
 ## 主要栏目
 ### 主页

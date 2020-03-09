@@ -1,0 +1,101 @@
+html {
+    font-family: "Segoe UI", sans-serif;
+    background-color: #000;
+    color: #ddd;
+    font-size: large;
+}
+body {
+    padding: 20px;
+    width: 95%;
+    height: 95%;
+    background-color:#05f;
+}
+h1#NoneBorderBottom {
+    font-size: 3.5em;
+}
+h1#class {
+    font-size: 2.5em;
+    text-align: right;
+}
+h1 {
+    font-size: 3em;
+    text-align: center;
+}
+nav {
+    background: #01f;
+    padding: 15px 10px 15px 100px;
+}
+nav ul{
+    margin: 10px 10px 0 10px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+nav ul li {
+    display: inline;
+    padding: 0 10px;
+}
+nav ul li a {
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 8px;
+}
+nav ul li a#selected {
+    background-color: #a0a;
+}
+nav ul li a:link, nav ul li a:visited{
+    background-color: #08f;
+    color: #000;
+}
+nav ul li a:hover{
+    background-color: #f90;
+    color: #fff;
+    transition: background-color 2s, color 2s;
+    -web-transition: background-color 2s, color 2s;
+}
+div.table {
+    display: table;
+}
+div.tableRow {
+    display: table-row;
+}
+div.tableCell {
+    display: table-cell;
+    vertical-align: top;
+}
+div#News {
+    border-radius: 5px;
+    border: thick dotted #888;
+    width: 25%;
+}
+div#News header{
+    font-size: 2.5em;
+    font-weight: 600;
+    font-style: oblique;
+}
+div#Welcome2020 header{
+    font-size: 2.2em;
+    margin-left: 50px;
+}
+div#Welcome2020 div{
+    text-indent: 2em;
+    font-size: 1.4em;
+    margin-left: 50px;
+}
+#map {
+    height: 700px;
+}
+table {
+    text-align: center;
+    border: thin solid #fff;
+    border-collapse: collapse;
+    width: 100%;
+}
+table caption {
+    font-size: 2.4em;
+}
+td, th{
+    font-size: 1.5em;
+    border: thin dotted #fff;
+    padding: 0 10%;
+}
